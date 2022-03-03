@@ -3,7 +3,7 @@
 The purpose of this analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders asked to see a bike trip analysis. To complete this analysis I used Tableau along with data produced by the NYC Citibike service. The visualizations produced during this analysis will show the investors that Des Moines is a profitable location to start a bike sharing company. 
 
 ## Tableau Dashboard
-[link to dashboard](https://public.tableau.com/app/profile/viasha.isler/viz/NYCCitibikeAnalysis_16462941723370/NYCCitiBike?publish=yes)
+[Link to Dashboard](https://public.tableau.com/app/profile/viasha.isler/viz/NYCCitibikeAnalysis_16462941723370/NYCCitiBike?publish=yes)
 
 ## Results
 ### Riders by Gender
